@@ -1,0 +1,29 @@
+.container
+{
+    border: solid 5px grey;
+    height: 500px;
+    width: 40%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-weight: 400;
+    font-size: 30px;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding-left:20%;
+
+}
+.sidebar
+{
+    background-color: blueviolet;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 40%;
+    width: 15%;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+    border-radius: 5px;
+    opacity: 0.9;
+}
